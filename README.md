@@ -2,7 +2,8 @@
 This is my code for the FizzBuzz task. 
 
 ## Running the Code 
-To run the code locally you will need node installed on your machine
+To run the code locally you will need node installed on your machine.
+
 Pull down the code, navigate to its directory on your computer in the terminal, and run the following command: 
 
 `node FizzBuzz.js`
