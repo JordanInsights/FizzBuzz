@@ -1,0 +1,25 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "This is my code for the FizzBuzz task.",
+  "main": "FizzBuzz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanInsights/FizzBuzz.git"
+  },
+  "author": "JordanInsights",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordanInsights/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/JordanInsights/FizzBuzz#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
